@@ -1,5 +1,5 @@
 ## Yoo what's poppin 👋
-- 👩‍🎓 I am a student in Florida International University
+- 👨‍🎓 I am a student in Florida International University
 - 🌱 I’m currently learning Web Development, Artificial Intelligence, and more.
 - ⚡ Fun fact: My favorite anime is The Disastrous Life of Saiki K.
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/amrit-murali/) or reach out to me at muraliamrit@gmail.com
