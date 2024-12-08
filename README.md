@@ -1,7 +1,7 @@
 ## Yoo what's poppin 👋
 - 👨‍🎓 I am a student at Florida International University
 - 🔭 I’m currently working on a Google Prompting certification.
-- 🌱 I’m interested in Web/Mobile Dev, Artificial Intelligence, and more.
+- 🌱 I’m interested in Web/Mobile Development, Artificial Intelligence, and more.
 - ⚡ Fun fact: My favorite anime is The Disastrous Life of Saiki K.
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/amrit-murali/) or reach out to me at amura017@fiu.edu.
 
