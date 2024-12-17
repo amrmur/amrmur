@@ -1,6 +1,6 @@
 ## Hey there 👋
 - 👨‍🎓 I am a student at Florida International University
-- 🔭 I’m currently working on a 2D RPG.
+- 🔭 I’m currently working on a Data Science certification.
 - 🌱 I’m interested in Web Development, Game Development, Artificial Intelligence, and more.
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/amrit-murali/) or reach out to me at amura017@fiu.edu.
 
