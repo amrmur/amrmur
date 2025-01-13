@@ -4,10 +4,6 @@
 - 🌱 I’m interested in Web Development, Game Development, Artificial Intelligence, and more.
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/amrit-murali/) or reach out to me at amura017@fiu.edu.
 
-<div style="width: 100%;">
-  <img src="animated.svg" style="width: 100%;" alt="Click to see the source">
-</div>
-
 <!--
 **AmritMurali/AmritMurali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
