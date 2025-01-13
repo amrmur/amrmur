@@ -1,7 +1,15 @@
 <svg fill="none" viewBox="0 0 552 167" width="552" height="167" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
-
+      <style>
+        .container {
+          display: flex;
+          width: 100%;
+          height: 300px;
+          background-color: black;
+          color: white;
+        }
+      </style>
       <div class="container">
         <iframe frameborder="0" src="https://itch.io/embed/3241346" width="552" height="167"><a href="https://amrmur.itch.io/tales-of-rit">Tales of Rit by amrmur</a></iframe>
       </div>
