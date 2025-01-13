@@ -4,6 +4,8 @@
 - 🌱 I’m interested in Web Development, Game Development, Artificial Intelligence, and more.
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/amrit-murali/) or reach out to me at amura017@fiu.edu.
 
+<iframe frameborder="0" src="https://itch.io/embed/3241346" width="552" height="167"><a href="https://amrmur.itch.io/tales-of-rit">Tales of Rit by amrmur</a></iframe>
+
 <!--
 **AmritMurali/AmritMurali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
