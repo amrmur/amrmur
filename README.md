@@ -1,7 +1,7 @@
 ## Hey there 👋
 - 👨‍🎓 I am a student at Florida International University
 - 🔭 I’m interested in Web Development and Data Structures/Algorithms.
-- 🌱 Check out some games I made on [itch.io](https://amrmur.itch.io) and others which you can play now on [https://amrmur.github.io/games/](https://amrmur.github.io/games/)!
+- 🌱 Check out some games I made on [itch.io](https://amrmur.itch.io) and others which you can play now on [https://amrmur.github.io/](https://amrmur.github.io/)!
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/amrit-murali/) or reach out to me at amura017@fiu.edu.
 
 <!--
